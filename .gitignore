@@ -1,0 +1,4 @@
+node_modules/
+app.pid
+deploy.log
+app_deployee/
